@@ -1,0 +1,2 @@
+mvn verify install
+pause
